@@ -1,4 +1,4 @@
-@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+Op@import url('https://fonts.cdnfonts.com/css/minecraft-4');
 @import url('https://fonts.cdnfonts.com/css/minecraftia');
 
 body{
@@ -241,4 +241,9 @@ button[type="submit"]:hover {
     margin-top: 10px;
     font-size: 14px;
     color: white;
+}
+
+.signuplink p a{
+    color: #00AA00;
+    text-decoration: none;
 }
