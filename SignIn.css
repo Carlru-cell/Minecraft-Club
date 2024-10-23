@@ -243,7 +243,7 @@ button[type="submit"]:hover {
     color: white;
 }
 
-.signuplink a {
+.signuplink p a {
     color: #00AA00;
     text-decoration: none;
 }
