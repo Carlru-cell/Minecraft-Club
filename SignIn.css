@@ -242,8 +242,3 @@ button[type="submit"]:hover {
     font-size: 14px;
     color: white;
 }
-
-.signuplink p a{
-    color: #00AA00;
-    text-decoration: none;
-}
