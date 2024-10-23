@@ -170,7 +170,7 @@ footer{
     margin: 0px 5px;
 }
 
-.form-container {
+.formcontainer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -178,7 +178,7 @@ footer{
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.form-box {
+.formbox {
     background-color: #161616;
     padding: 40px;
     border-radius: 10px;
@@ -189,23 +189,23 @@ footer{
     align-items: center;
 }
 
-.form-content {
+.formcontent {
     width: 100%;
     padding: 20px;
 }
 
-.form-header {
+.formheader {
     text-align: center;
     margin-bottom: 20px;
 }
 
-.input-field {
+.inputfield {
     position: relative;
     margin-bottom: 20px;
     width: 100%;
 }
 
-.input-field input {
+.inputfield input {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
@@ -213,7 +213,7 @@ footer{
     font-family: 'Minecraft', sans-serif;
 }
 
-.input-field i {
+.inputfield i {
     position: absolute;
     right: 10px;
     top: 50%;
@@ -236,7 +236,7 @@ button[type="submit"]:hover {
 }
 
 
-.sign-up-link {
+.signuplink {
     text-align: center;
     margin-top: 10px;
     font-size: 14px;
